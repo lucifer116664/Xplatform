@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI31.Chaplia.Lab6","l":"Driver"},{"p":"KI31.Chaplia.Lab6","l":"FileInOut"}];updateSearchResults();

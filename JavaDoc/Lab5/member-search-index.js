@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI31.Chaplia.Lab5","c":"Count","l":"Count()","u":"%3Cinit%3E()"},{"p":"KI31.Chaplia.Lab5","c":"Count","l":"countMyVariant(double)"},{"p":"KI31.Chaplia.Lab5","c":"Driver","l":"Driver()","u":"%3Cinit%3E()"},{"p":"KI31.Chaplia.Lab5","c":"Driver","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
